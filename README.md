@@ -1,1 +1,1 @@
-# CoderByte
+# CoderByte exercises
